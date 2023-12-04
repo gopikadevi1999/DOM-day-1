@@ -1,0 +1,6 @@
+
+const divison = document.createElement("div");
+divison.innerHTML="Hi this is a session practice dom";
+document.body.append(divison);
+
+

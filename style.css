@@ -1,0 +1,21 @@
+.container {
+    background-color: rgb(255, 255, 113);
+    height: 160px;
+    padding: 1px;
+    border-radius: 2px solid black !important;
+}
+
+.header {
+    background-color: rgb(204, 150, 255);
+    color: rgb(170, 74, 74);
+}
+
+.section {
+    background-color: chartreuse;
+    color: orangered;
+}
+
+.article {
+    background-color: rgb(250, 172, 249);
+    color: red;
+}
